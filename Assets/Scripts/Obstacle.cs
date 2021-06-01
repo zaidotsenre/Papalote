@@ -23,6 +23,7 @@ public class Obstacle : MonoBehaviour
         SetStartPosition(direction);
         SetRotation(direction);
         SetInMotion(direction);
+        
     }
 
     private void Update()
